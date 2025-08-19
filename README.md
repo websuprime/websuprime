@@ -1,5 +1,11 @@
 # 💫 About Me:
-I specialize in PHP, jQuery, JavaScript, Python, C++, and RDBMS.<br>I have expertise in MySQLi, AJAX, REST APIs, and no-code platforms like Squarespace, Wix, and WordPress.<br>I am currently transitioning into Python development and machine learning.<br>I am looking to collaborate on backend, automation, and ML projects.<br>Seeking help with learning advanced ML algorithms and practices.<br>Fun fact: I'm versatile with both code and no-code development platforms.<br><br><br><br><br><br><br>
+I specialize in C# with .NET Core & ASP.NET Core MVC, building scalable and high-performance web applications.<br>
+Along with strong backend expertise, I am proficient in PHP, JavaScript, jQuery, C++, and RDBMS technologies.<br>
+I have hands-on experience with MySQLi, AJAX, REST APIs, and no-code platforms like Squarespace, Wix, and WordPress.<br>
+Previously, I explored Python development and machine learning, which adds to my problem-solving and data-driven approach.<br>
+I am looking to collaborate on backend engineering, enterprise applications, and automation projects.<br>
+Fun fact: I bridge both traditional development and modern frameworks, making me adaptable across multiple tech stacks.<br>
+
 
 
 ## 🌐 Socials:
