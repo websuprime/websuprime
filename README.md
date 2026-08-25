@@ -26,12 +26,11 @@ Currently **Software Developer @ Webastral Infosystems**. Previously **iMark Inf
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [royal-wow-meal-bar](https://github.com/websuprime/royal-wow-meal-bar) | React · Fastify · MongoDB · JWT | Full-stack restaurant & bar platform with admin dashboard |
+| [dineflow-pos](https://github.com/websuprime/dineflow-pos) | React · Electron · Node.js | Restaurant POS desktop app with API backend |
+| [websuprime-platform](https://github.com/websuprime/websuprime-platform) | Next.js · portfolio CMS | Company marketing & portfolio platform |
 | [Login-Signup-with-validation](https://github.com/websuprime/Login-Signup-with-validation) | PHP · JavaScript | Auth flow with client/server validation |
 | [Login-Signup-Form](https://github.com/websuprime/Login-Signup-Form) | PHP | Gmail-based signup, verification & password reset |
-| [Object-Detection-Software](https://github.com/websuprime/Object-Detection-Software) | Python · YOLO | Real-time object detection |
-| [Password-manager](https://github.com/websuprime/Password-manager) | Python | Secure password generator & manager |
-
-> More active work (restaurant POS, MERN platforms, Laravel APIs) is in local/private client repos — portfolio updates coming.
 
 ---
 
