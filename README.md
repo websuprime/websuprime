@@ -8,7 +8,7 @@ Full-stack developer building production web platforms, APIs, and commerce — r
 
 - **MERN / Node** — Fastify or Express APIs, JWT auth, MongoDB/PostgreSQL, admin dashboards
 - **React & Next.js** — marketing sites and product UIs against real endpoints
-- **WooCommerce / PHP** — live store fixes, custom flows, CDN & security
+- **WooCommerce / PHP** — live store fixes, custom flows, CDN and security
 - **DineFlow POS** — restaurant POS (Electron + web demo)
 
 ## Tech stack
